@@ -21,4 +21,4 @@ A minimal, single-page HTML resume/CV.
 ## Notes
 
 - No CSS is currently included; styling can be added via a `<style>` block or a linked stylesheet.
-https://github.com/shuhratrahmonov146/single-page-cv_ICD/
+https://roadmap.sh/projects/single-page-cv
